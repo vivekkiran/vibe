@@ -2,8 +2,8 @@
   "name": "Vibe",
   "version": "0.0.1",
   "dependencies": {
-    "express": "4.8.x",
-    "request": "2.34.x"
+    "express": "4.21.x",
+    "request": "2.88.x"
   },
   "private": "false",
   "engines": {
